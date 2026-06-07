@@ -28,8 +28,8 @@ These are scripts I use to install and harden things, customize them however you
 - I would add specific fixes for my devices(T480 w/i5, Ideapad w/11th gen i5) here, so keep that in mind I guess.
 - This is partly made with Claude and DeepSeek. For more info on the division of work, see below.
 
-<summary>
-    <details> Division of Work </details>
+<details>
+<summary> Division of Work </summary>
 
 |Task|Made with AI?| Work Split (No AI/AI) |
 |---|---|---|
@@ -37,7 +37,7 @@ These are scripts I use to install and harden things, customize them however you
 |Adding Packages|Me with AI processing it|40-60|
 |Adding Hardening|Trafotin Scripts + modifications by me and AI|70-30|
 
-</summary>
+</details>
 
 # References:
 https://gitlab.com/trafotin/os-install-scripts
