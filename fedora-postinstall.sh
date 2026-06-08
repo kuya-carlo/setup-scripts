@@ -119,7 +119,6 @@ debloat() {
         "zd1211-firmware"
         "libertas-usb8388-firmware"
         "geolite2*"
-        "alsa-sof-firmware"
     )
 
     log "Removing bloat packages..."
